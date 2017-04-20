@@ -11,9 +11,9 @@ Pin sequence for logic input:
    6. CS
    7. GND
    
-  • Vcc(max)    41 V
-  • Iout(max)   30 A
-  • PWM freq    upto 20 KHz
+  • Vcc(max): 41 V
+  • Iout(max): 30 A
+  • PWM freq: upto 20 KHz
   • Circuit provides reverse battery protection
   • Thermal shutdown (typical) at 175 °C
   • LEDs for logic indication
